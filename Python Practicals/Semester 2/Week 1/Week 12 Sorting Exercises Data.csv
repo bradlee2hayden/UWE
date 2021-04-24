@@ -1,0 +1,50 @@
+Player,Sex,Age,Profession,Sector,Salary (£)
+PL01,Male,35,Teacher,Education,45000
+PL02,Male,42,Nurse,Healthcare,37000
+PL03,Female,29,Doctor,Healthcare,98000
+PL04,Male,47,Doctor,Healthcare,98000
+PL05,Female,62,Nurse,Healthcare,33000
+PL06,Female,45,Teacher,Education,34000
+PL07,Female,27,Uni Lecturer,Education,45000
+PL08,Male,45,Uni Lecturer,Education,42000
+PL09,Female,43,Nurse,Healthcare,36000
+PL10,Male,44,Doctor,Healthcare,79000
+PL11,Female,44,Teacher,Education,47000
+PL12,Female,41,Banker,Finance,100000
+PL13,Female,32,Banker,Finance,89000
+PL14,Male,56,Banker,Finance,94000
+PL15,Male,55,Teacher,Education,44000
+PL16,Male,54,Uni Lecturer,Education,50000
+PL17,Male,43,Uni Lecturer,Education,51000
+PL18,Female,39,Nurse,Healthcare,38000
+PL19,Female,40,Nurse,Healthcare,39000
+PL20,Male,41,Nurse,Healthcare,37000
+PL21,Female,57,Doctor,Healthcare,112000
+PL22,Female,25,Banker,Finance,130000
+PL23,Male,34,Banker,Finance,147000
+PL24,Male,29,Doctor,Healthcare,67000
+PL25,Male,39,Doctor,Healthcare,74000
+PL26,Male,45,Nurse,Healthcare,29000
+PL27,Female,34,Nurse,Healthcare,37000
+PL28,Female,35,Nurse,Healthcare,30000
+PL29,Male,36,Banker,Finance,230000
+PL30,Male,37,Uni Lecturer,Education,52000
+PL31,Male,38,Nurse,Healthcare,39000
+PL32,Male,39,Teacher,Education,39000
+PL33,Male,33,Teacher,Education,59000
+PL34,Male,31,Nurse,Healthcare,41000
+PL35,Female,33,Doctor,Healthcare,68000
+PL36,Female,32,Doctor,Healthcare,51000
+PL37,Female,34,Uni Lecturer,Education,49000
+PL38,Male,43,Uni Lecturer,Education,57000
+PL39,Female,34,Teacher,Education,42000
+PL40,Male,35,Nurse,Healthcare,40000
+PL41,Male,35,Doctor,Healthcare,55000
+PL42,Female,35,Uni Lecturer,Education,59000
+PL43,Male,37,Doctor,Healthcare,62000
+PL44,Male,46,Teacher,Education,77000
+PL45,Female,44,Banker,Finance,177000
+PL46,Female,41,Banker,Finance,98000
+PL47,Male,34,Uni Lecturer,Education,33000
+PL48,Male,38,Doctor,Healthcare,47000
+PL49,Male,50,Nurse,Healthcare,43000
