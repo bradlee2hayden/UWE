@@ -1,0 +1,14 @@
+SMAP
+givePrescriptionPage_jsp.java
+JSP
+*S JSP
+*F
++ 0 givePrescriptionPage.jsp
+givePrescriptionPage.jsp
+*L
+5,35:44
+39,4:79
+42,2:83
+44,2:85,3
+46,6:91
+*E

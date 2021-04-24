@@ -1,0 +1,16 @@
+SMAP
+clientsPage_jsp.java
+JSP
+*S JSP
+*F
++ 0 clientsPage.jsp
+clientsPage.jsp
+*L
+5,46:44
+51:90,3
+52,23:93
+75:116,3
+76:119
+77,4:120,3
+81,14:132
+*E
